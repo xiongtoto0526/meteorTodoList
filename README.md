@@ -1,1 +1,1 @@
-meteor project 
+a meteor project 
